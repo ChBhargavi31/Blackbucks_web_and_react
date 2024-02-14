@@ -1,0 +1,10 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif; 
+}
+
+p {
+    color: blue; /* Set the text color to blue */
+    text-align: center; /* Center-align the text */
+}
